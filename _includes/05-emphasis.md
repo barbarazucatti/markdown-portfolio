@@ -5,7 +5,7 @@ Below is a list of my technical skills
 ### Programing languages
 - R
 
-## Statistics
+### Statistics
 - Modelling
 - Data Analysis
 - Linear Regression
@@ -13,12 +13,12 @@ Below is a list of my technical skills
 - Distribution probabilities
 - Generalized linear models
 
-## Softwares
+### Softwares
 - QGIS
 - Office Package
 - Microsoft PowerPoint
 - Microsoft Excel
 
-## Languages
+### Languages
 - English: advanced
 - Portuguese: native

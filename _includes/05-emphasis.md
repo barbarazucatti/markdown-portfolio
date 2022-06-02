@@ -2,22 +2,22 @@
 
 Below is a list of my technical skills
 
-## Programing languages
+### Programing languages
 - R
 
 ## Statistics
-- Moddeling
+- Modelling
 - Data Analysis
 - Linear Regression
 - Hypotesis testing
 - Distribution probabilities
-- Generelized linear models
+- Generalized linear models
 
 ## Softwares
 - QGIS
 - Office Package
 - Microsoft PowerPoint
-- Mirosoft Excel
+- Microsoft Excel
 
 ## Languages
 - English: advanced

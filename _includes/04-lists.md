@@ -1,4 +1,4 @@
-# :heart:Favorites Things:heart:
+ # Favorites Things
 - Food
 - Play Games
 - Listen to music

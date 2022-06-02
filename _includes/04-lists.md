@@ -1,6 +1,6 @@
-	:heart: Favorite Things	:heart:
-1. Food
-2. Play Games
-3. Listen to music
-4. Take pictures
-5. Study
+# :heart: Favorites Things :heart:
+- Food
+- Play Games
+- Listen to music
+- Take pictures
+- Study

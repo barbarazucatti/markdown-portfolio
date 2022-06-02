@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Hard Skills**
+1._R_
+2._Statistical modeling_
+3._Analytical thinking_

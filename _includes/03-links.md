@@ -1,1 +1,1 @@
-[Github] (https://github.com/barbarazucatti/)
+[Github](https://github.com/barbarazucatti/)
